@@ -204,7 +204,7 @@ star: true
 <Badge text="A" type="info" vertical="middle" />：可能是因为某些驱动不支持修改文件排序导致的，取消文件排序试试看
 
 -----
-
+：天翼云盘客户端挂载显示：failed get objs: failed to list objs: code: InternalError ,msg: 系统错误，如果用天翼云盘挂载提示需要图形验证码，抓了cookie会提示图形验证码错误
 
 暂时就这些，如果还有可以留言，或者按照格式添加（为了统一直观）
 
